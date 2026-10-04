@@ -3,7 +3,7 @@ using System.IO;
 using SQLite;
 using UnityEngine;
 
-namespace ParkMinPackages.SQLiteToolkit
+namespace ParkMinDev.UPM.SQLite.Toolkit
 {
 	public abstract class SQLiteDatabase : IDisposable
 	{

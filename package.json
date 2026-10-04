@@ -1,7 +1,7 @@
 {
   "name": "com.parkmindev.upm.sqlite.toolkit",
   "displayName": "ParkMinDev.UPM.SQLite.Toolkit",
-  "version": "2.0.3",
+  "version": "3.0.0",
   "license": "MIT",
   "documentationUrl": "https://github.com/ParkMinDev/UPM-SQLite-Toolkit#readme",
   "changelogUrl": "https://github.com/ParkMinDev/UPM-SQLite-Toolkit/blob/main/CHANGELOG.md",

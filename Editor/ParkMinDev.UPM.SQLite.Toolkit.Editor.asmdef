@@ -1,8 +1,12 @@
 {
-  "name": "ParkMinPackages.SQLiteToolkit",
-  "rootNamespace": "ParkMinPackages.SQLiteToolkit",
-  "references": [],
-  "includePlatforms": [],
+  "name": "ParkMinDev.UPM.SQLite.Toolkit.Editor",
+  "rootNamespace": "ParkMinDev.UPM.SQLite.Toolkit.Editor",
+  "references": [
+    "GUID:80b199cd65944356931bf053a5dfb2b2"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using R3;
 using SQLite;
 
-namespace ParkMinPackages.SQLiteToolkit
+namespace ParkMinDev.UPM.SQLite.Toolkit
 {
 	public sealed class ReactiveSingleRecordSQLiteTable<TKey, TRecord> : IDisposable
 		where TRecord : class, ISQLiteRecord<TKey>, new()

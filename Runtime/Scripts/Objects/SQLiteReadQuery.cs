@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using SQLite;
 
-namespace ParkMinPackages.SQLiteToolkit
+namespace ParkMinDev.UPM.SQLite.Toolkit
 {
 	public sealed class SQLiteReadQuery<TRecord>
 	{

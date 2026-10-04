@@ -2,7 +2,7 @@ using System;
 using R3;
 using SQLite;
 
-namespace ParkMinPackages.SQLiteToolkit
+namespace ParkMinDev.UPM.SQLite.Toolkit
 {
 	public class ReactiveSQLiteTable<TKey, TRecord> : IDisposable
 		where TRecord : class, ISQLiteRecord<TKey>, new()

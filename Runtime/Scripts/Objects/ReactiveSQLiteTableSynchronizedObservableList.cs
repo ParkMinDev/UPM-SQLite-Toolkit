@@ -5,7 +5,7 @@ using System.Linq;
 using ObservableCollections;
 using R3;
 
-namespace ParkMinPackages.SQLiteToolkit
+namespace ParkMinDev.UPM.SQLite.Toolkit
 {
 	public sealed class ReactiveSQLiteTableSynchronizedObservableList<TKey, TRecord, TItem> : IReadOnlyObservableList<TItem>, IDisposable
 		where TRecord : class, ISQLiteRecord<TKey>, new()
