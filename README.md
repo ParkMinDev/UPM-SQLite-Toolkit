@@ -1,4 +1,4 @@
-# ParkMinPackages.SQLiteToolkit
+# ParkMinDev.UPM.SQLite.Toolkit
 
 Reusable SQLite database and reactive table utilities for Unity projects.
 
