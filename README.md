@@ -5,7 +5,7 @@ Reusable SQLite database and reactive table utilities for Unity projects.
 ## Installation
 
 ```text
-https://github.com/ParkMinPackages/SQLite-Toolkit.git
+https://github.com/ParkMinDev/SQLite-Toolkit.git
 ```
 
 ## Dependencies
